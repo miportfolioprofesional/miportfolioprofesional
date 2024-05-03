@@ -6,6 +6,7 @@
   <br>- Me apasiona la codificación, el trabajar con datos, la estadística, la visualización de datos y el desarrollo de Machine Learning.
   <br>- Estoy preparado para aportar valor a equipos y empresas, destacándome por mi mente analítica y habilidades en la resolución de problemas.<br>- Mi enfoque se centra en anticipar desafíos futuros, liderar equipos, trabajar colaborativamente,   comunicarme efectivamente y demostrar autonomía en la resolución de problemas.  <br>
 
+   
    ## 🌐 Redes sociales:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/matias-endrek-7a9680255/) 
 
