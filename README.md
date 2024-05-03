@@ -4,7 +4,7 @@
   <br>- Tengo 31 años de edad. Originario de Córdoba, Argentina.
   <br>- Diplomado en Machine Learning en la universidad tecnológica nacional (U.T.N.) de Córdoba.<br>- Soy una persona autodidacta y altamente creativa que busca aprender y mejorar cada día.
   <br>- Me apasiona la codificación, el trabajar con datos, la estadística, la visualización de datos y el desarrollo de Machine Learning.
-  <br>- Estoy preparado para aportar valor a equipos y empresas, destacándome por mi mente analítica y<br>  habilidades en la resolución de problemas.<br>- Mi enfoque se centra en anticipar desafíos futuros, liderar equipos, trabajar colaborativamente,<br>   comunicarme efectivamente y demostrar autonomía en la resolución de problemas.  <br>
+  <br>- Estoy preparado para aportar valor a equipos y empresas, destacándome por mi mente analítica y habilidades en la resolución de problemas.<br>- Mi enfoque se centra en anticipar desafíos futuros, liderar equipos, trabajar colaborativamente,   comunicarme efectivamente y demostrar autonomía en la resolución de problemas.  <br>
 
 
 ## 🌐 Red social:
