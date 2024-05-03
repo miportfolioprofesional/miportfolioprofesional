@@ -1,7 +1,6 @@
 
    
-<h1>Hola! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">   Mi nombre es Endrek Matias     </h1><br><h2>Soy científico de datos especializado en Python <img src="https://brandslogos.com/wp-content/uploads/images/large/python-logo.png" width="30px"><br>  <br> 
-  
+<h1>Hola! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">   Mi nombre es Endrek Matias</h1><br><h2>Soy científico de datos especializado en Python <img src="https://brandslogos.com/wpcontent/uploads/images/large/python-logo.png" width="30px"><br>  <br> 
   <br>- Tengo 31 años de edad. Originario de Córdoba, Argentina.
   <br>- Diplomado en Machine Learning en la universidad tecnológica nacional (U.T.N.) de Córdoba.<br>- Soy una persona autodidacta y altamente creativa que busca aprender y mejorar cada día.
   <br>- Me apasiona la codificación, el trabajar con datos, la estadística, la visualización de datos y el desarrollo de Machine Learning.
