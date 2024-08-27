@@ -2,7 +2,7 @@
    
 <h1>Hola! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">   Mi nombre es Endrek Matias</h1><br><h2> Soy científico de datos especializado en Python <img src="https://brandslogos.com/wp-content/uploads/images/large/python-logo.png" width="30px"> <br>  <br> 
   <br>- Tengo 31 años de edad. Originario de Córdoba, Argentina.
-  <br>- Cuento con un curso especializado en Data Science en la universidad nacional de Córdoba  (U.N.C.) .<br>- Soy una persona autodidacta y altamente creativa que busca aprender y mejorar cada día.
+  <br>- Cuento con un curso especializado en Data Science de la universidad nacional de Córdoba  (U.N.C.) .<br>- Soy una persona autodidacta y altamente creativa que busca aprender y mejorar cada día.
   <br>- Me apasiona la codificación, el análisis, la estadística, la visualización de datos y el desarrollo de Machine Learning.
   <br>- Estoy preparado para aportar valor a equipos y empresas, destacándome por mi mente analítica y habilidades en la resolución de problemas.<br>- Mi enfoque se centra en anticipar desafíos futuros, liderar equipos, trabajar colaborativamente,   comunicarme efectivamente y demostrar autonomía en la resolución de problemas.  <br>
 
