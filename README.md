@@ -1,46 +1,69 @@
-<h1>👋 Hola! Soy Matías Endrek</h1>
+<h1>👋 Hi! I'm Matías Endrek</h1>
 
-🚀 **Ayudo a empresas a automatizar procesos y tomar mejores decisiones con datos**
+🚀 **CEO & Founder of MJE Data Consulting**, a technology consulting firm focused on **Data Analytics, Business Intelligence, Artificial Intelligence, Automation, and Software Development**.
 
-💡 Especializado en:
-- Automatización de reportes y procesos (ETL)
-- Dashboards en Power BI 📊
-- Análisis de datos aplicado a negocio
-- Machine Learning e IA 🤖
+I help businesses transform data and processes into **practical technology solutions** that improve efficiency, save time, and support better decision-making.
 
----
+💡 **My areas of expertise include:**
 
-## 🧠 ¿Qué puedo hacer por tu negocio?
-
-✔ Reducir tareas manuales y ahorrar tiempo  
-✔ Transformar datos en información útil  
-✔ Crear dashboards claros para tomar decisiones  
-✔ Desarrollar soluciones con IA (chatbots, modelos predictivos)  
+* Data Analytics and Business Intelligence
+* Power BI dashboards and KPI reporting 📊
+* Data transformation and ETL processes
+* Process automation and workflow optimization ⚙️
+* Machine Learning and Artificial Intelligence 🤖
+* Custom data-driven applications and software solutions
+* Web application development
+* APIs and web scraping
 
 ---
 
-## 🛠️ Tecnologías principales
+## 🧠 How can I help your business?
 
-🐍 Python | 🗄️ SQL | 📊 Power BI | ⚙️ APIs | 🤖 Machine Learning  
+✔ Automate repetitive tasks and reduce manual work
+
+✔ Transform raw data into actionable insights
+
+✔ Build clear and interactive dashboards for better decision-making
+
+✔ Develop AI-powered solutions and predictive models
+
+✔ Create custom applications and software tailored to business needs
+
+✔ Integrate data from multiple sources and optimize ETL processes
+
+✔ Develop scalable technology solutions based on data and automation
 
 ---
 
-## 📂 Proyectos destacados
+## 🛠️ Technologies & Tools
 
-🔹  Dashboard de ventas automatizado  
-🔹  Modelo de predictivos 
-🔹  Desarrollos en Excel Avanzado  
+🐍 **Python** | 🗄️ **SQL** | 📊 **Power BI** | 📈 **Excel**
+🤖 **Machine Learning & AI** | ⚙️ **APIs & Automation**
+🌐 **React & Next.js** | 🕷️ **Web Scraping** | 🔄 **ETL & Data Integration**
 
 ---
 
-## 🌐 Contacto
+## 📂 Featured Projects
 
-💼 LinkedIn:  
+🔹 Automated Sales & Business Intelligence Dashboards
+🔹 Predictive Analytics & Machine Learning Models
+🔹 Data-Driven Applications and Software Solutions
+🔹 Advanced Excel & Data Automation Solutions
+🔹 AI-Powered Business Solutions
+
+---
+
+## 🌐 Let's Connect
+
+💼 **LinkedIn:**
 👉 https://www.linkedin.com/in/matias-javier-endrek-7a9680255/
 
-📧 Email:  
-👉 matiasjavierendrek@gmail.com  
+📧 **Email:**
+👉 [matiasjavierendrek@gmail.com](mailto:matiasjavierendrek@gmail.com)
 
 ---
 
-⭐ Estoy abierto a oportunidades freelance y colaboraciones
+⭐ **Building technology solutions that turn data into business value.**
+
+**MJE Data Consulting**|
+*Data Analytics | Business Intelligence | AI | Automation | Software Development*
