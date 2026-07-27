@@ -46,9 +46,13 @@ I help businesses transform data and processes into **practical technology solut
 ## 📂 Featured Projects
 
 🔹 Automated Sales & Business Intelligence Dashboards
+
 🔹 Predictive Analytics & Machine Learning Models
+
 🔹 Data-Driven Applications and Software Solutions
+
 🔹 Advanced Excel & Data Automation Solutions
+
 🔹 AI-Powered Business Solutions
 
 ---
