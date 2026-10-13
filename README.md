@@ -11,6 +11,7 @@ I help businesses transform data and processes into **practical technology solut
 * Data transformation and ETL processes
 * Process automation and workflow optimization ⚙️
 * Machine Learning and Artificial Intelligence 🤖
+* Automations workflows with n8n and IA agents
 * Custom data-driven applications and software solutions
 * Web application development
 * APIs and web scraping
