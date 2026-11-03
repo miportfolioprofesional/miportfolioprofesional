@@ -64,7 +64,7 @@ I help businesses transform data and processes into **practical technology solut
 👉 https://www.linkedin.com/in/matias-javier-endrek-7a9680255/
 
 📧 **Email:**
-👉 [matiasjavierendrek@gmail.com](mailto:matiasjavierendrek@gmail.com)
+👉 [contact@mjedataconsulting.com](mailto:contact@mjedataconsulting.com)
 
 ---
 
